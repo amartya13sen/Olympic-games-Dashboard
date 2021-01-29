@@ -1,7 +1,7 @@
 # Olympic-games-Dashboard
 
 It's a dashboard which is created byusing Tableau Prep and MS Excel.
-The objective of the dashboard is toanalyze the evolution of Olympicgames from year 1896 to 2014.
+The objective of the dashboard is to analyze the evolution of Olympicgames from year 1896 to 2014.
 
 Other Objectives are as follows :
 
